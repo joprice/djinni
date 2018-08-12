@@ -1,4 +1,7 @@
-import com.typesafe.sbt.SbtStartScript
+
+ThisBuild / bazelScalaRulesVersion := "958864711b3fe00045ac57b2ba86f709eeb8262d"
+
+bazelWorkspaceGenerate := true
 
 scalaVersion := "2.11.12"
 
