@@ -16,7 +16,7 @@
 
 #pragma once
 
-#include "proxy_cache_interface.hpp"
+#include "support-lib/proxy_cache_interface.hpp"
 #include <functional>
 #include <mutex>
 #include <unordered_map>

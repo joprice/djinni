@@ -20,4 +20,4 @@ scalacOptions ++= Seq("-unchecked", "-deprecation", "-feature", "-Xmax-classfile
 
 libraryDependencies += "com.github.scopt" %% "scopt" % "3.2.0"
 
-Seq(SbtStartScript.startScriptForClassesSettings: _*)
+//Seq(SbtStartScript.startScriptForClassesSettings: _*)
