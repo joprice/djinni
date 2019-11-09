@@ -1,5 +1,5 @@
 
-ThisBuild / bazelScalaRulesVersion := "958864711b3fe00045ac57b2ba86f709eeb8262d"
+ThisBuild / bazelScalaRulesVersion := "0f89c210ade8f4320017daf718a61de3c1ac4773"
 
 bazelWorkspaceGenerate := true
 
